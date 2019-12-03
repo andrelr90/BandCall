@@ -1,7 +1,0 @@
-#Wed Jul 24 19:35:56 BRT 2019
-base.0=C\:\\Users\\andre\\Desktop\\Pendente\\bandCallNotify\\bandCallNotify\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8a3d69d23f1aa446d326f804a6e8e28eb4b2b01
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\andre\\Desktop\\Pendente\\bandCallNotify\\bandCallNotify\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_452772e440118d6ce401dfa591c6e9e7bbdbba39\\classes.dex
-base.1=C\:\\Users\\andre\\Desktop\\Pendente\\bandCallNotify\\bandCallNotify\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_452772e440118d6ce401dfa591c6e9e7bbdbba39
-file.0=C\:\\Users\\andre\\Desktop\\Pendente\\bandCallNotify\\bandCallNotify\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b8a3d69d23f1aa446d326f804a6e8e28eb4b2b01\\classes.dex
