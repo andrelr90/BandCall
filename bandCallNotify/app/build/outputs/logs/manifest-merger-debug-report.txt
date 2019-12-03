@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2ef4aee9ec9042acdb801c215ed7b0fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\aef69a2d5d4a7fc6cea07a5ceca9d21f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\95b8a0bbdb3e322c35ab06d09c6a64b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\e695df292c52217a310e3b3ad835a41a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b28d39da7c3e3bebedbbc392c5f5c297\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\eececaafb39b822678c6a8a31cfc49be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\72d38ee4e26079a596ad13fa9b85db96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\225bbb17eb1a4e3a641a409881744fdd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c900b7edc3c151e19a3b29f529a40b85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\710bc6775186604ced9f29358c44ca08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\56566815269e2157868e1223ae9d20f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\cd4c020239a94aa8729d1a249e6ca231\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2cbf4cd0a98c6dfee6deda656bee8d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d52c5f6841ff6ddf575904dedb811993\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\48d372814b6641dedb1b066978d16d3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\400baf8549f15b0ab6c4ffde4c2a5852\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d5b27662f6a83aad096271f83d7c43ae\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\dcc3ace86e2302a36291cff7c6d5f263\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c8fbc17f55a6f327eb2d1e521c75b547\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d9d231f100ff1eeb79fa91983873f0bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\20e15d9a78bc2908871f1a44dc3c60cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\f4bdd4e660ab7d2c0f24124ffd575e80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\bb5e298c4f2089a3bbd1539c1e56ef57\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\660ec0b1958b5862cba80a185ed3843c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\489c9f8749e3f2034729e12dd97d03b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\0455a418fdfb4d9df2fe6001df2740e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b7d5aa5529e45d9c659ebb3431193677\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\aef69a2d5d4a7fc6cea07a5ceca9d21f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\aef69a2d5d4a7fc6cea07a5ceca9d21f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d5b27662f6a83aad096271f83d7c43ae\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d5b27662f6a83aad096271f83d7c43ae\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:9:9-46
+	android:icon
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.knowalr.bandcallnotify.MainActivity
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:16:27-74
+service#com.knowalr.bandcallnotify.ServiceBackground
+ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml:19:18-51
+uses-sdk
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2ef4aee9ec9042acdb801c215ed7b0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2ef4aee9ec9042acdb801c215ed7b0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\aef69a2d5d4a7fc6cea07a5ceca9d21f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\aef69a2d5d4a7fc6cea07a5ceca9d21f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\95b8a0bbdb3e322c35ab06d09c6a64b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\95b8a0bbdb3e322c35ab06d09c6a64b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\e695df292c52217a310e3b3ad835a41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\e695df292c52217a310e3b3ad835a41a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b28d39da7c3e3bebedbbc392c5f5c297\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b28d39da7c3e3bebedbbc392c5f5c297\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\eececaafb39b822678c6a8a31cfc49be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\eececaafb39b822678c6a8a31cfc49be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\72d38ee4e26079a596ad13fa9b85db96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\72d38ee4e26079a596ad13fa9b85db96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\225bbb17eb1a4e3a641a409881744fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\225bbb17eb1a4e3a641a409881744fdd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c900b7edc3c151e19a3b29f529a40b85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c900b7edc3c151e19a3b29f529a40b85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\710bc6775186604ced9f29358c44ca08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\710bc6775186604ced9f29358c44ca08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\56566815269e2157868e1223ae9d20f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\56566815269e2157868e1223ae9d20f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\cd4c020239a94aa8729d1a249e6ca231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\cd4c020239a94aa8729d1a249e6ca231\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2cbf4cd0a98c6dfee6deda656bee8d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\2cbf4cd0a98c6dfee6deda656bee8d6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d52c5f6841ff6ddf575904dedb811993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d52c5f6841ff6ddf575904dedb811993\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\48d372814b6641dedb1b066978d16d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\48d372814b6641dedb1b066978d16d3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\400baf8549f15b0ab6c4ffde4c2a5852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\400baf8549f15b0ab6c4ffde4c2a5852\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\adfe754ac669c9cd44b89ebf90a4832f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d5b27662f6a83aad096271f83d7c43ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d5b27662f6a83aad096271f83d7c43ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\dcc3ace86e2302a36291cff7c6d5f263\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\dcc3ace86e2302a36291cff7c6d5f263\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c8fbc17f55a6f327eb2d1e521c75b547\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\c8fbc17f55a6f327eb2d1e521c75b547\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d9d231f100ff1eeb79fa91983873f0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\d9d231f100ff1eeb79fa91983873f0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\20e15d9a78bc2908871f1a44dc3c60cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\20e15d9a78bc2908871f1a44dc3c60cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\f4bdd4e660ab7d2c0f24124ffd575e80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\f4bdd4e660ab7d2c0f24124ffd575e80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\bb5e298c4f2089a3bbd1539c1e56ef57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\bb5e298c4f2089a3bbd1539c1e56ef57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\660ec0b1958b5862cba80a185ed3843c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\660ec0b1958b5862cba80a185ed3843c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\489c9f8749e3f2034729e12dd97d03b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\489c9f8749e3f2034729e12dd97d03b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\0455a418fdfb4d9df2fe6001df2740e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\0455a418fdfb4d9df2fe6001df2740e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b7d5aa5529e45d9c659ebb3431193677\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andre\.gradle\caches\transforms-2\files-2.1\b7d5aa5529e45d9c659ebb3431193677\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andre\Documents\GitHub\BandCallNotify\bandCallNotify\app\src\main\AndroidManifest.xml
