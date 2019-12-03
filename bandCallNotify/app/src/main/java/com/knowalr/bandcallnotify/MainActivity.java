@@ -57,10 +57,11 @@ public class MainActivity extends AppCompatActivity {
     private void startService(){
         Intent i = new Intent(getApplicationContext(), ServiceBackground.class);
         getApplication().startService(i);
+        Toast.makeText(getApplicationContext(), "Serviço iniciado.", Toast.LENGTH_SHORT).show();
     }
 
     private void stopService() {
-        Toast.makeText(getApplicationContext(), "O serviço será iniciado automaticamente ao reiniciar o celular.", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Serviço interrompido.", Toast.LENGTH_SHORT).show();
         getApplication().stopService(new Intent(getApplicationContext(), ServiceBackground.class));
     }
 }
