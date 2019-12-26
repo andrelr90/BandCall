@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    protected void buttonAction(View view){
+    public void buttonAction(View view){
         Button botao = findViewById(R.id.button);
         if(ServiceBackground.isActive()){
             botao.setText("Iniciar serviço");
@@ -64,4 +64,5 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), "Serviço interrompido.", Toast.LENGTH_SHORT).show();
         getApplication().stopService(new Intent(getApplicationContext(), ServiceBackground.class));
     }
+
 }

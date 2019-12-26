@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bandCallNotify.iml" filepath="$PROJECT_DIR$/bandCallNotify.iml" />
       <module fileurl="file://$PROJECT_DIR$/bandCallNotify.iml" filepath="$PROJECT_DIR$/bandCallNotify.iml" />
     </modules>
   </component>
