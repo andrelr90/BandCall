@@ -40,6 +40,8 @@ public class TimeChecker extends TimerTask{
     }
 
     private PendingIntent createOnDismissedIntent(Context context) {
+        //Based on: https://stackoverflow.com/questions/14671453/catch-on-swipe-to-dismiss-event/20670984#20670984
+
         Intent intent = new Intent(context, NotificationDismissedReceiver.class);
 
         PendingIntent pendingIntent =
