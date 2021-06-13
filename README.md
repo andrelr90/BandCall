@@ -18,4 +18,6 @@ One of the main benefits of using a smartband is receiving notifications right a
 ## How does it work
 This app keeps running in backend, verifying the sound mode of the Android system. When the sound mode changes to the call mode, the app creates a notification in the phone that will be sent to the smartband. In a nutshell, it works by identifying calls and sending notifications to the smartband. For that, **you must enable notifications for this app in your smartband app**.
 
-Note: Tested in miBand 2, 3, and 4.
+## Compatibility
+* Tested in miBand 2, 3, and 4.
+* Tested in Android 7 and 10.
